@@ -1,0 +1,228 @@
+%PDF-1.1
+
+1 0 obj   % document info
+<<
+ /Creator (Causeway PDF engine - SharpPlot v3.71.0)
+ /Producer (Causeway PDF engine - SharpPlot v3.71.0)
+ /CreationDate (D:202506040246)
+ /Title (produit scalaire du signal parfait)
+>>
+endobj
+
+% ======== Fonts (built-in and embedded) ========
+
+2 0 obj   % FontDescriptor for "Times New Roman" (native)
+<<
+ /Type /Font
+ /Subtype /Type1
+ /Name /F1
+ /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+>>
+endobj
+
+3 0 obj   % Root node
+<<
+ /Type /Catalog
+ /Outlines 4 0 R
+ /Pages 6 0 R
+ /PageMode /UseOutlines
+>>
+endobj
+
+% ======== Content ========
+
+4 0 obj   % Outlines
+<<
+ /Type /Outlines
+ /Count 1
+ /First 5 0 R
+ /Last 5 0 R
+>>
+endobj
+
+5 0 obj   % Outline 1
+<<
+ /Parent 4 0 R
+ /Dest [7 0 R /XYZ null null null]
+ /Title (Page 1)
+>>
+endobj
+
+6 0 obj   % Page list
+<<
+ /Type /Pages
+ /MediaBox [0 0 432 324]
+ /Count 1
+ /Kids [7 0 R ]
+>>
+endobj
+
+7 0 obj   % Page 1
+<<
+ /Type /Page
+ /Parent 6 0 R
+ /Contents 8 0 R
+ /MediaBox [0 0 432 324]
+ /Resources 
+<<
+ /ProcSet [/PDF /Text /ImageB /ImageC]
+ /Font << /F1 2 0 R >>
+>>
+>>
+endobj
+
+8 0 obj   % Stream
+<< /Length 4556 >>
+stream
+1 J 1 j
+% Paint the paper =====
+0 w
+0 J 0 j [] 0 d
+1 1 1 rg
+0 0 432 324 re F
+% Border =====
+q
+1 0 0 1 40 52 cm
+% Region =====
+% X-Axis Ticks =====
+% X-Axis tickmarks
+0.72 w
+0 0 m 0 -4.4 l S
+28.5 0 m 28.5 -4.4 l S
+56.9 0 m 56.9 -4.4 l S
+85.4 0 m 85.4 -4.4 l S
+113.8 0 m 113.8 -4.4 l S
+142.3 0 m 142.3 -4.4 l S
+170.8 0 m 170.8 -4.4 l S
+199.2 0 m 199.2 -4.4 l S
+227.7 0 m 227.7 -4.4 l S
+256.2 0 m 256.2 -4.4 l S
+284.6 0 m 284.6 -4.4 l S
+313.1 0 m 313.1 -4.4 l S
+341.5 0 m 341.5 -4.4 l S
+370 0 m 370 -4.4 l S
+
+% Y-Axis Ticks =====
+% Y-Axis tickmarks
+0 0 m -3.3 0 l S
+0 17.4 m -3.3 17.4 l S
+0 34.8 m -3.3 34.8 l S
+0 52.2 m -3.3 52.2 l S
+0 69.5 m -3.3 69.5 l S
+0 86.9 m -3.3 86.9 l S
+0 104.3 m -3.3 104.3 l S
+0 121.7 m -3.3 121.7 l S
+0 139.1 m -3.3 139.1 l S
+0 156.5 m -3.3 156.5 l S
+0 173.8 m -3.3 173.8 l S
+0 191.2 m -3.3 191.2 l S
+0 208.6 m -3.3 208.6 l S
+0 226 m -3.3 226 l S
+
+% Axes =====
+1.2 w
+0 -4.4 m 0 230.4 l S
+-4.4 0 m 374.4 0 l S
+
+% Y-axis labels
+BT
+0 0 0 rg
+/F1 8 Tf
+1 0 0 1 -10.5 -2 Tm
+(0) Tj
+1 0 0 1 -14.5 15.4 Tm
+(20) Tj
+1 0 0 1 -14.5 32.8 Tm
+(40) Tj
+1 0 0 1 -14.5 50.2 Tm
+(60) Tj
+1 0 0 1 -14.5 67.5 Tm
+(80) Tj
+1 0 0 1 -18.5 84.9 Tm
+(100) Tj
+1 0 0 1 -18.5 102.3 Tm
+(120) Tj
+1 0 0 1 -18.5 119.7 Tm
+(140) Tj
+1 0 0 1 -18.5 137.1 Tm
+(160) Tj
+1 0 0 1 -18.5 154.5 Tm
+(180) Tj
+1 0 0 1 -18.5 171.8 Tm
+(200) Tj
+1 0 0 1 -18.5 189.2 Tm
+(220) Tj
+1 0 0 1 -18.5 206.6 Tm
+(240) Tj
+1 0 0 1 -18.5 224 Tm
+(260) Tj
+% for X-axis labels
+1 0 0 1 -2 -12.4 Tm
+(0) Tj
+1 0 0 1 24.5 -12.4 Tm
+(20) Tj
+1 0 0 1 52.9 -12.4 Tm
+(40) Tj
+1 0 0 1 81.4 -12.4 Tm
+(60) Tj
+1 0 0 1 109.8 -12.4 Tm
+(80) Tj
+1 0 0 1 136.3 -12.4 Tm
+(100) Tj
+1 0 0 1 164.8 -12.4 Tm
+(120) Tj
+1 0 0 1 193.2 -12.4 Tm
+(140) Tj
+1 0 0 1 221.7 -12.4 Tm
+(160) Tj
+1 0 0 1 250.2 -12.4 Tm
+(180) Tj
+1 0 0 1 278.6 -12.4 Tm
+(200) Tj
+1 0 0 1 307.1 -12.4 Tm
+(220) Tj
+1 0 0 1 335.5 -12.4 Tm
+(240) Tj
+1 0 0 1 364 -12.4 Tm
+(260) Tj
+% Heading, subheading and footnotes =====
+% Heading
+0 0 0.502 rg
+/F1 18 Tf
+1 0 0 1 59.5 242.8 Tm
+(produit scalaire du signal parfait) Tj
+% Start of Line Chart ===========
+ET
+% Points follow ...
+% Line
+0.3 w
+0 0 0.502 RG
+1 J 1 j [] 0 d
+364.3 0 m 362.9 0 l 361.5 0 l 360 0 l 358.6 0 l 357.2 0 l 355.8 0 l 354.3 0 l 352.9 0 l 351.5 0 l 350.1 0 l 348.7 0 l 347.2 0 l 345.8 0 l 344.4 0 l 343 0 l 341.5 0 l 340.1 0 l 338.7 0 l 337.3 0 l 335.8 0 l 334.4 0 l 333 0 l 331.6 0 l 330.2 0 l 328.7 0 l 327.3 0 l 325.9 0 l 324.5 0 l 323 0 l 321.6 0 l 320.2 0 l 318.8 0 l 317.3 0 l 315.9 0 l 314.5 0 l 313.1 0 l 311.7 0 l 310.2 0 l 308.8 0 l 307.4 0 l 306 0 l 304.5 0 l 303.1 0 l 301.7 0 l 300.3 0 l 298.8 0 l 297.4 0 l 296 0 l 294.6 0 l 293.2 0 l 291.7 0 l 290.3 0 l 288.9 0 l 287.5 0 l 286 0 l 284.6 0 l 283.2 0 l 281.8 0 l 280.3 0 l 278.9 0 l 277.5 0 l 276.1 0 l 274.7 0 l 273.2 0 l 271.8 0 l 270.4 0 l 269 0 l 267.5 0 l 266.1 0 l 264.7 0 l 263.3 0 l 261.8 0 l 260.4 0 l 259 0 l 257.6 0 l 256.2 0 l 254.7 0 l 253.3 0 l 251.9 0 l 250.5 0 l 249 0 l 247.6 0 l 246.2 0 l 244.8 0 l 243.3 0 l 241.9 0 l 240.5 0 l 239.1 0 l 237.7 0 l 236.2 0 l 234.8 0 l 233.4 0 l 232 0 l 230.5 0 l 229.1 0 l 227.7 0 l 226.3 0 l 224.8 0 l 223.4 0 l 222 0 l 220.6 0 l 219.2 0 l 217.7 0 l 216.3 0 l 214.9 0 l 213.5 0 l 212 0 l 210.6 0 l 209.2 0 l 207.8 0 l 206.3 0 l 204.9 0 l 203.5 0 l 202.1 0 l 200.7 0 l 199.2 0 l 197.8 0 l 196.4 0 l 195 0 l 193.5 0 l 192.1 0 l 190.7 0 l 189.3 0 l 187.8 0 l 186.4 0 l 185 0 l 183.6 0 l 182.2 0 l 180.7 0 l 179.3 0 l 177.9 0 l 176.5 0 l 175 0 l 173.6 0 l 172.2 0 l 170.8 0 l 169.3 0 l 167.9 0 l 166.5 0 l 165.1 0 l 163.7 0 l 162.2 0 l 160.8 0 l 159.4 0 l 158 0 l 156.5 0 l 155.1 0 l 153.7 0 l 152.3 0 l 150.8 0 l 149.4 0 l 148 0 l 146.6 0 l 145.2 0 l 143.7 0 l 142.3 0 l 140.9 0 l 139.5 0 l 138 0 l 136.6 0 l 135.2 0 l 133.8 0 l 132.3 0 l 130.9 0 l 129.5 0 l 128.1 0 l 126.7 0 l 125.2 0 l 123.8 0 l 122.4 0 l 121 0 l 119.5 0 l 118.1 0 l 116.7 0 l 115.3 0 l 113.8 0 l 112.4 0 l 111 0 l 109.6 0 l 108.2 0 l 106.7 0 l 105.3 0 l 103.9 0 l 102.5 0 l 101 0 l 99.6 0 l 98.2 0 l 96.8 0 l 95.3 0 l 93.9 0 l 92.5 0 l 91.1 0 l 89.7 0 l 88.2 0 l 86.8 0 l 85.4 0 l 84 0 l 82.5 0 l 81.1 0 l 79.7 0 l 78.3 0 l 76.8 0 l 75.4 0 l 74 0 l 72.6 0 l 71.2 0 l 69.7 0 l 68.3 0 l 66.9 0 l 65.5 0 l 64 0 l 62.6 0 l 61.2 0 l 59.8 0 l 58.3 0 l 56.9 0 l 55.5 0 l 54.1 0 l 52.7 0 l 51.2 0 l 49.8 0 l 48.4 0 l 47 0 l 45.5 0 l 44.1 0 l 42.7 0 l 41.3 0 l 39.8 0 l 38.4 0 l 37 222.5 l 35.6 0 l 34.2 0 l 32.7 0 l 31.3 0 l 29.9 0 l 28.5 0 l 27 0 l 25.6 0 l 24.2 0 l 22.8 0 l 21.3 0 l 19.9 0 l 18.5 0 l 17.1 0 l 15.7 0 l 14.2 0 l 12.8 0 l 11.4 0 l 10 0 l 8.5 0 l 7.1 0 l 5.7 0 l 4.3 0 l 2.8 0 l 1.4 0 l S
+% Reset to original origin
+Q
+endstream
+endobj
+
+xref
+0 9
+0000000000 65535 f 
+0000000010 00000 n 
+0000000283 00000 n 
+0000000448 00000 n 
+0000000584 00000 n 
+0000000673 00000 n 
+0000000776 00000 n 
+0000000877 00000 n 
+0000001061 00000 n 
+
+trailer
+<<
+ /Size 9
+ /Info 1 0 R
+ /Root 3 0 R
+>>
+startxref
+5680
+%%EOF
